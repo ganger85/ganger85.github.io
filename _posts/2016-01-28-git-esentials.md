@@ -25,3 +25,5 @@ git fetch <name>
 ~~~
 git remote -v
 ~~~
+
+[@Ganger85](http://twitter.com/ganger85)
