@@ -1,8 +1,14 @@
 ---
 layout: post
+title:  "Search, Storage, ... about ideas"
+subtitle: "Tools to get info"
+author: "Ganger"
+avatar: "img/authors/ganger.jpg"
+image: "img/idea_lab.jpg"
+date:   2017-03-25 12:12:12
 tags : [recipe,ideas]
 ---
-![My helpful screenshot]({{ site.url }}/assets/ideas_header.jpg =100x20)
+
 # Ideas
 
 Por que necesitamos ideas, notas y demás, creo que como curioso profesional, la búsqueda de ideas es algo mas que necesario, si quieres ahondar sobre un tema (búsqueda del expertis), si quieres ver como enfocan otras personas los mismos problemas que tu tienes, o simplemente quieres satisfacer tu curiosidad.
