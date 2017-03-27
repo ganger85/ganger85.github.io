@@ -1,5 +1,11 @@
 ---
 layout: post
+title:  "Arrancando"
+subtitle: ""
+author: "Ganger"
+avatar: "img/authors/ganger.jpg"
+image: "img/startEngine.jpg"
+date:   2017-01-25 12:12:12
 tags : [primero,arrancamos,tutorial,motivación]
 ---
 # Porque hacer un blog?

@@ -1,6 +1,12 @@
 ---
 layout: post
-tags : [tutorial,git]
+title:  "Git esentials"
+subtitle: "Tips and tricks"
+author: "Ganger"
+avatar: "img/authors/ganger.jpg"
+image: "img/git.png"
+date:   2017-02-25 12:12:12
+tags : [recipe,git]
 ---
 # git quick cheatsheet
 
@@ -10,7 +16,7 @@ tags : [tutorial,git]
 
 Esto es especialmente útil cuando trabajamos con Pull Request
 
-Así 
+Así
 
 - origin -> repo personal en el server de git
 - upstream -> repo del proyecto sobre el que van las Pull Request
